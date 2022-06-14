@@ -3,6 +3,7 @@ import Wrapper from '../assets/wrappers/Nav'
 import { BsGithub, BsLinkedin } from 'react-icons/bs'
 import { HiMenuAlt1 } from 'react-icons/hi'
 import logo from '../assets/images/logo.png'
+import resume from '../assets/Neema-Velasco-Resume.pdf'
 
 const Nav = () => {
   const [ showMenu, setShowMenu ] = useState(false)
@@ -19,7 +20,7 @@ const Nav = () => {
         <div className='nav-section page-links'>
           <a href='#projects'>Projects</a>
           <a href='#contact'>Contact</a>
-          <a className='resume'>Resume</a>
+          <a className='resume' href={resume} target="_blank" rel="noopener noreferrer">Resume</a>
         </div>
         <div className='nav-section social-links'>
           <a href='https://github.com/nvsco-10' target="_blank" rel="noopener noreferrer" className='icon'><BsGithub/></a>
