@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.74aa9a75.css",
-    "main.js": "/react-portfolio/static/js/main.360630f9.js",
+    "main.js": "/react-portfolio/static/js/main.7c1f9732.js",
     "static/media/placeholder.png": "/react-portfolio/static/media/placeholder.13e97baecc8ecac1b66b.png",
     "static/media/profile.png": "/react-portfolio/static/media/profile.e093b97a7792e172522d.png",
     "static/media/tech.png": "/react-portfolio/static/media/tech.5d6d558a8163f332277c.png",
     "static/media/blog.png": "/react-portfolio/static/media/blog.65919fa32c7881524b39.png",
     "static/media/mobile.png": "/react-portfolio/static/media/mobile.cf58a8bdec005b20858f.png",
+    "static/media/Neema-Velasco-Resume.pdf": "/react-portfolio/static/media/Neema-Velasco-Resume.bb48cf3148b4825d906d.pdf",
     "static/media/thy.png": "/react-portfolio/static/media/thy.0558a4074d1d58a8d735.png",
     "static/media/prt.png": "/react-portfolio/static/media/prt.b0a468084d9d96caa0a0.png",
     "static/media/logo.png": "/react-portfolio/static/media/logo.9a0742f0b4d6c7c42bf5.png",
     "index.html": "/react-portfolio/index.html",
     "main.74aa9a75.css.map": "/react-portfolio/static/css/main.74aa9a75.css.map",
-    "main.360630f9.js.map": "/react-portfolio/static/js/main.360630f9.js.map"
+    "main.7c1f9732.js.map": "/react-portfolio/static/js/main.7c1f9732.js.map"
   },
   "entrypoints": [
     "static/css/main.74aa9a75.css",
-    "static/js/main.360630f9.js"
+    "static/js/main.7c1f9732.js"
   ]
 }
