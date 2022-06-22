@@ -1,8 +1,9 @@
 import styled from "styled-components";
 import placeholder from '../images/placeholder.png'
-import proj1 from '../images/tech.png'
-import proj2 from '../images/thy.png'
-import proj3 from '../images/blog.png'
+import proj1 from '../images/crypto.png'
+import proj2 from '../images/tech.png'
+import proj3 from '../images/thy.png'
+
 
 const Wrapper = styled.header`
   display: flex;
