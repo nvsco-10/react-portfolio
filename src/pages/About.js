@@ -42,7 +42,7 @@ const About = () => {
         <p>I'm a Software Developer based in North Texas.</p>
         <p>A fascination towards blockchain technologies and cryptocurrencies sparked my initial interest in web development.
         </p>
-        <p>I find excitement in solving business problems and the constantly evolving nature of the tech industry.
+        <p>What I find most exciting about being a developer is being able to solve business problems through technology and being part of the constantly evolving nature of the tech industry.
         </p>
       </div>
       
