@@ -25,14 +25,11 @@ const About = () => {
           <ul>
             <li>JavaScript</li>
             <li>React</li>
-            <li>Handlebars</li>
-            <li>jQuery</li>
+            <li>Responsive Web Design</li>
           </ul>
           <ul>
-            <li>Node</li>
-            <li>Express</li>
-            <li>Mongoose</li>
-            <li>MySQL</li>
+            <li>Express.js</li>
+            <li>MongoDB / MySQL</li>
           </ul>
         </div>
       </div>

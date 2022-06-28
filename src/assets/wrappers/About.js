@@ -73,7 +73,7 @@ const Wrapper = styled.header`
   .skills {
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start;
 
     margin: 1rem 0 0;
 

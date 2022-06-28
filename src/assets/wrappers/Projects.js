@@ -1,6 +1,6 @@
 import styled from "styled-components";
 import placeholder from '../images/placeholder.png'
-import proj1 from '../images/crypto.png'
+import proj1 from '../images/crypto.PNG'
 import proj2 from '../images/tech.png'
 import proj3 from '../images/thy.png'
 
