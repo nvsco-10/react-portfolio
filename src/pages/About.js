@@ -13,7 +13,7 @@ const About = () => {
         <div className='intro'>
           <h2>Neema Velasco</h2>
           <div className='job-title'>
-            <p className='title'>Software Developer</p>
+            <p className='title'>Full Stack Web Developer</p>
             <div className='job-status'>
               <AiOutlineCheckCircle className='icon'/>
               <span className='text-xxs'>open to work</span>
@@ -28,7 +28,7 @@ const About = () => {
             <li>Responsive Web Design</li>
           </ul>
           <ul>
-            <li>Express.js</li>
+            <li>Node.js</li>
             <li>MongoDB / MySQL</li>
           </ul>
         </div>
@@ -36,10 +36,8 @@ const About = () => {
 
       <div className='bio'>
         <p>Howdy!</p>
-        <p>I'm a Software Developer based in North Texas.</p>
-        <p>A fascination towards blockchain technologies and cryptocurrencies sparked my initial interest in web development.
-        </p>
-        <p>What I find most exciting about being a developer is being able to solve business problems through technology and being part of the constantly evolving nature of the tech industry.
+        <p>I'm a Web Developer based in North Texas.</p>
+        <p>I show my creativity and passion in everything I build.
         </p>
       </div>
       

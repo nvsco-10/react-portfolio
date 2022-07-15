@@ -3,8 +3,6 @@ import styled from "styled-components";
 const Wrapper = styled.header`
   background-color: rgb(3,0,35);
   padding: 1rem 2rem;
-  font-family: var(--mono-font);
-
   position: sticky;
   top: 0;
 
@@ -62,7 +60,7 @@ const Wrapper = styled.header`
     .resume {
       border: solid 1px grey;
       border-radius: var(--border-radius);
-      padding: 0.1em 0.75em;
+      padding: 0.3em 1.5em;
     }
 
     .resume:hover {
@@ -79,7 +77,7 @@ const Wrapper = styled.header`
     background-color: var(--clear-backdrop);
     
     a {
-      font-size: var(--xs-text);
+      font-size: var(--sm-text);
       margin: 0;
     }
 

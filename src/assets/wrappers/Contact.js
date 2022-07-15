@@ -5,15 +5,24 @@ const Wrapper = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding-top: 2rem;
+  padding: 2rem 0 5rem;
+  background-color: rgba(0,0,0,0.2);
 
   div {
-    height: 10rem;
-  }
+    display: flex;
+    align-items: center;
 
-  .icon {
+    .email {
+      font-size: 1.4rem;
+      margin-left: 1rem;
+    }
+
+    .icon {
     font-size: 2rem;
   }
+  }
+
+  
 `
 
 export default Wrapper

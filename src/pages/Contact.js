@@ -5,10 +5,13 @@ import { FiMail } from 'react-icons/fi'
 const Contact = () => {
   return (
     <Wrapper id='contact'>
-      <h3>Work with me?</h3>
+      <h3>Contact</h3>
       <div>
         <a href="mailto:neemavelasco@gmail.com">
-        <FiMail className='icon'/>
+          <FiMail className='icon'/>
+        </a>
+        <a className="email" href="mailto:neemavelasco@gmail.com">
+          neemavelasco@gmail.com
         </a>
       </div>
     </Wrapper>

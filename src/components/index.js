@@ -1,3 +1,5 @@
+import Nav from "./Nav";
 import ProjectCard from "./ProjectCard";
+import OtherProjectCard from "./OtherProjectCard";
 
-export { ProjectCard }
+export { Nav, ProjectCard, OtherProjectCard }

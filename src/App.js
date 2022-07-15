@@ -1,13 +1,14 @@
-import { Nav, About, Projects, Contact } from './pages'
+import { About, Projects, Contact } from './pages'
+import { Nav } from './components'
 
 function App() {
   return (
-    <div>
+    <>
       <Nav/>
       <About/>
       <Projects/>
       <Contact/>
-    </div>
+    </>
   );
 }
 

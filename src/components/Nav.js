@@ -8,7 +8,6 @@ import resume from '../assets/Neema-Velasco-Resume.pdf'
 const Nav = () => {
   const [ showMenu, setShowMenu ] = useState(false)
 
-  
   return (
     <Wrapper>
       <HiMenuAlt1 className='toggle' onClick={() => setShowMenu(!showMenu)} />

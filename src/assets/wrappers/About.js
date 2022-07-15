@@ -44,7 +44,7 @@ const Wrapper = styled.header`
       align-items: center;
 
       .title {
-        font-size: 1.10rem;
+        font-size: var(--md-text);
         padding-right: 1.5rem;
       }
 
@@ -82,7 +82,7 @@ const Wrapper = styled.header`
       margin: 1rem 2rem; 
     }
     li {
-      font-size: var(--xs-text)
+      font-size: var(--sm-text)
     }
   }
 
@@ -93,6 +93,7 @@ const Wrapper = styled.header`
 
     p { 
       margin-bottom: 1rem; 
+      font-size: var(--md-text)
     }
   }
 
