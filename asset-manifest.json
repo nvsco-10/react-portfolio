@@ -1,22 +1,20 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.74aa9a75.css",
-    "main.js": "/react-portfolio/static/js/main.49f4f1b5.js",
-    "static/media/placeholder.png": "/react-portfolio/static/media/placeholder.13e97baecc8ecac1b66b.png",
+    "main.css": "/react-portfolio/static/css/main.807458b1.css",
+    "main.js": "/react-portfolio/static/js/main.8553eb45.js",
     "static/media/profile.png": "/react-portfolio/static/media/profile.e093b97a7792e172522d.png",
-    "static/media/tech.png": "/react-portfolio/static/media/tech.5d6d558a8163f332277c.png",
-    "static/media/crypto.PNG": "/react-portfolio/static/media/crypto.a352200689d3bcd7de79.PNG",
-    "static/media/mobile.png": "/react-portfolio/static/media/mobile.cf58a8bdec005b20858f.png",
-    "static/media/Neema-Velasco-Resume.pdf": "/react-portfolio/static/media/Neema-Velasco-Resume.facbcaab20c7203e8c0f.pdf",
-    "static/media/thy.png": "/react-portfolio/static/media/thy.0558a4074d1d58a8d735.png",
-    "static/media/prt.png": "/react-portfolio/static/media/prt.b0a468084d9d96caa0a0.png",
+    "static/media/Neema-Velasco-Resume.pdf": "/react-portfolio/static/media/Neema-Velasco-Resume.58bb2577c05e68006c60.pdf",
+    "static/media/cryptodegen.png": "/react-portfolio/static/media/cryptodegen.8dc986b4471d41038840.png",
+    "static/media/prtdark.png": "/react-portfolio/static/media/prtdark.69db27c6b1f4b69bc77d.png",
+    "static/media/friends.png": "/react-portfolio/static/media/friends.2d8a890aa2295c589509.png",
+    "static/media/jtq-dark.png": "/react-portfolio/static/media/jtq-dark.35bb3cc2b33101565564.png",
     "static/media/logo.png": "/react-portfolio/static/media/logo.9a0742f0b4d6c7c42bf5.png",
     "index.html": "/react-portfolio/index.html",
-    "main.74aa9a75.css.map": "/react-portfolio/static/css/main.74aa9a75.css.map",
-    "main.49f4f1b5.js.map": "/react-portfolio/static/js/main.49f4f1b5.js.map"
+    "main.807458b1.css.map": "/react-portfolio/static/css/main.807458b1.css.map",
+    "main.8553eb45.js.map": "/react-portfolio/static/js/main.8553eb45.js.map"
   },
   "entrypoints": [
-    "static/css/main.74aa9a75.css",
-    "static/js/main.49f4f1b5.js"
+    "static/css/main.807458b1.css",
+    "static/js/main.8553eb45.js"
   ]
 }
