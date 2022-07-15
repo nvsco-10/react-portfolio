@@ -24,7 +24,7 @@ const projects = [
     badge: 'React Typescript',
     description: 'Front-end trivia app based on the hit TV show, F.R.I.E.N.D.S.',
     github: 'https://github.com/nvsco-10/friends-trivia',
-    live: 'https://main--spiffy-pudding-93946d.netlify.app/',
+    live: 'https://friends-trivia-app.netlify.app/',
     img: friends,
   },
   // {
