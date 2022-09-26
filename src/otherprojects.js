@@ -1,4 +1,4 @@
-import bfc from './assets/images/bfc-dark.png'
+import ftl from './assets/images/ftl.png'
 import jtq from './assets/images/jtq-dark.png'
 import ems from './assets/images/ems.png'
 import wt from './assets/images/wt.png'
@@ -19,11 +19,11 @@ const otherprojects = [
     img: wt,
   },
   {
-    title: 'Bad Fortune Cookie',
+    title: 'Follow The Leader',
     badge: 'JavaScript',
-    github: 'https://github.com/nvsco-10/bad-fortune-cookie',
-    live: 'https://nvsco-10.github.io/bad-fortune-cookie/',
-    img: bfc,
+    github: 'https://github.com/nvsco-10/memory-game',
+    live: 'https://aesthetic-babka-59a104.netlify.app/',
+    img: ftl,
   },
   {
     title: 'JavaScript Timed Quiz',
