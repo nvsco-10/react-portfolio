@@ -5,6 +5,7 @@ const Wrapper = styled.div`
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    
 
     .header {
       width: 100%;
@@ -32,9 +33,14 @@ const Wrapper = styled.div`
       .header-overview.box2 {
         background-color: #ff9c34;
       }
+
+      .header-overview.box3 {
+        background: linear-gradient(0deg, rgba(0,204,229,1) 12%, rgba(91,139,223,1) 69%);
+      }
     }
 
     .body {
+      min-height: 150px;
       margin-top: 1rem;
       padding-inline: 0.75rem;
 

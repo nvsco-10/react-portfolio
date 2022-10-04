@@ -1,6 +1,7 @@
 import cryptodegen from './assets/images/cryptodegen.png'
 import prt from './assets/images/prtdark.png'
 import friends from './assets/images/friends.png'
+import bisaya from './assets/images/learnbisaya.png'
 
 const projects = [
   {
@@ -13,8 +14,8 @@ const projects = [
   },
   {
     title: 'Crypto Degen',
-    badge: 'ReactJS',
-    description: 'Front-end app that shows market data and news using the CoinGecko and Reddit API.',
+    badge: 'React',
+    description: 'Front-end app that shows market data and news using the CoinGecko & Reddit API.',
     github: 'https://github.com/nvsco-10/crypto-degen',
     live: 'https://crypto-degen.herokuapp.com/',
     img: cryptodegen,
@@ -27,6 +28,14 @@ const projects = [
     live: 'https://friends-trivia-app.netlify.app/',
     img: friends,
   },
+  {
+    title: 'Learn Bisaya',
+    badge: 'React',
+    description: 'Front-end app that helps users learn the Bisaya or Cebuano language using interactive flashcards and quizzes.',
+    github: 'https://github.com/nvsco-10/',
+    live: 'https://learn-bisaya.netlify.app/',
+    img: bisaya
+  }
   // {
   //   title: 'Tech It Out!',
   //   badge: 'MERN',

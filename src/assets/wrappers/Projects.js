@@ -45,7 +45,7 @@ const Wrapper = styled.div`
 
     .projects-container {
       max-width: 1150px;
-      grid-template-columns: 1fr 1fr 1fr;
+      grid-template-columns: 1fr 1fr;
     }
 
     .other-projects-container {
