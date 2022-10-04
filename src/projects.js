@@ -32,7 +32,7 @@ const projects = [
     title: 'Learn Bisaya',
     badge: 'React',
     description: 'Front-end app that helps users learn the Bisaya or Cebuano language using interactive flashcards and quizzes.',
-    github: 'https://github.com/nvsco-10/',
+    github: 'https://github.com/nvsco-10/learn-bisaya',
     live: 'https://learn-bisaya.netlify.app/',
     img: bisaya
   }
