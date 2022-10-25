@@ -46,6 +46,11 @@ const Wrapper = styled.div`
         text-align: center;
       }
 
+      .project-description {
+        min-height: 100px;
+        margin-top: 1rem;
+      }
+
       .project-links {
         display: flex;
         justify-content: center;

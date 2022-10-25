@@ -2,7 +2,7 @@ import Wrapper from '../assets/wrappers/OtherProjectCard'
 import { FiGithub } from 'react-icons/fi'
 import { MdOpenInNew } from 'react-icons/md'
 
-const OtherProjectCard = ({ index, title, badge, github, live, img }) => {
+const OtherProjectCard = ({ index, title, description, badge, github, live, img }) => {
   return (
     <Wrapper>
       <div className={`header box${index}`}>
@@ -15,6 +15,7 @@ const OtherProjectCard = ({ index, title, badge, github, live, img }) => {
           <span className='badge text-sm'>
             {badge}
           </span>
+          <p className='project-description'>{description}</p>
           <div className='project-links'>
             <a href={github} target="_blank" rel="noopener noreferrer"><FiGithub/></a>
             <a href={live} target="_blank" rel="noopener noreferrer"><MdOpenInNew/></a>

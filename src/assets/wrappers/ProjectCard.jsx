@@ -35,7 +35,7 @@ const Wrapper = styled.div`
       }
 
       .header-overview.box3 {
-        background: linear-gradient(0deg, rgba(0,204,229,1) 12%, rgba(91,139,223,1) 69%);
+        background-color: #ffce07;
       }
     }
 

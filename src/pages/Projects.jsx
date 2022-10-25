@@ -34,6 +34,7 @@ const Projects = () => {
             key={index} 
             index={index}
             title={project.title} 
+            description={project.description}
             badge={project.badge}
             github={project.github}
             live={project.live}

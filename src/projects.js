@@ -1,7 +1,8 @@
 import cryptodegen from './assets/images/cryptodegen.png'
 import prt from './assets/images/prtdark.png'
 import friends from './assets/images/friends.png'
-import bisaya from './assets/images/learnbisaya.png'
+import sunday from './assets/images/sunday.png'
+
 
 const projects = [
   {
@@ -29,12 +30,12 @@ const projects = [
     img: friends,
   },
   {
-    title: 'Learn Bisaya',
-    badge: 'React',
-    description: 'Front-end app that helps users learn the Bisaya or Cebuano language using interactive flashcards and quizzes.',
-    github: 'https://github.com/nvsco-10/learn-bisaya',
-    live: 'https://learn-bisaya.netlify.app/',
-    img: bisaya
+    title: 'The Sunday Bite',
+    badge: 'Vue.js | MySQL',
+    description: 'Full stack app that is a mock restaurant website with a dynamic menu and careers page.',
+    github: 'https://github.com/nvsco-10/sunday-bite',
+    live: 'https://sunday-bite.netlify.app/',
+    img: sunday
   }
   // {
   //   title: 'Tech It Out!',

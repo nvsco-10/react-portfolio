@@ -23,13 +23,16 @@ const About = () => {
         
         <div className='skills'>
           <ul>
+            <li>HTML / CSS</li>
             <li>JavaScript</li>
             <li>React</li>
-            <li>Responsive Web Design</li>
+            <li>Vue</li>
           </ul>
           <ul>
-            <li>Node.js</li>
-            <li>MongoDB / MySQL</li>
+            <li>Node</li>
+            <li>Express</li>
+            <li>MongoDB</li>
+            <li>MySQL</li>
           </ul>
         </div>
       </div>
@@ -37,7 +40,7 @@ const About = () => {
       <div className='bio'>
         <p>Howdy!</p>
         <p>I'm a Web Developer based in North Texas.</p>
-        <p>I show my creativity and passion in everything I build.
+        <p>I like to show my creativity and passion in everything I build.
         </p>
       </div>
       
